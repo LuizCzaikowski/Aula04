@@ -1,0 +1,2 @@
+# Aula04
+Desenvolva um  código em Java que crie um tipo de dado (Objeto) que irá armazenar numero inteiros, porém este objeto deve diferenciar se o número é par ou impar.  Na sequencia crie três array list, um só pode aceitar dados do tipo par, o outro só do tipo impar e um array list deve aceitar ambos os tipos.  Modele suas classes para atender as boas praticas explicadas em aula.  Poste seu código fonte no github e depois coloque o link do seu repositório nesta atividade. 
